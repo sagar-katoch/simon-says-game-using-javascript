@@ -83,4 +83,4 @@ Project Link: https://github.com/sagarkatoch/simon-says-game
 
 ---
 
-Made with ❤️ by Sagar Katoch
+Made with ❤️ by Sagar Katoch 
